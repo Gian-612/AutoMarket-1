@@ -20,6 +20,7 @@ const API_BASE = "https://automarket-7hx1.onrender.com/api";
 let vehiculosCache = [];
 
 
+
 /* =====================================================
    OBTENER VEHÍCULOS DESDE LA API
 ===================================================== */
