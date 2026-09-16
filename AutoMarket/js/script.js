@@ -13,7 +13,7 @@
 // Mientras desarrollas en tu máquina, deja esta URL.
 // Cuando despliegues el backend en Render, cámbiala por
 // la URL pública, ej: "https://automarket-api.onrender.com/api"
-const API_BASE = "http://localhost:4000/api";
+const API_BASE = "https://automarket-7hx1.onrender.com/api";
 
 // Guardamos en memoria la última lista de vehículos que
 // trajo el servidor, para poder filtrarla sin volver a pedirla.
