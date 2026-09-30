@@ -16,7 +16,9 @@ steps:
 - script: |
     npm install
   displayName: 'npm install'
+  workingDirectory: 'Automarketbackend'
 
 - script: |
     curl -X POST "https://api.render.com/deploy/srv-datvcsh7lnhs73es9u20?key=na105n1RYDo"
   displayName: 'Deploy a Render'
+  workingDirectory: 'Automarketbackend'
