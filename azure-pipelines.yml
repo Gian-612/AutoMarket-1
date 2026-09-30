@@ -19,6 +19,6 @@ steps:
   workingDirectory: 'Automarketbackend'
 
 - script: |
-    curl -X POST "https://api.render.com/deploy/srv-datvcsh7lnhs73es9u20?key=na105n1RYDo"
+    curl -X POST "https://api.render.com/deploy/srv-dal0m75g1s2s73dqq3v0?key=Cg2SyPwim9Q"
   displayName: 'Deploy a Render'
   workingDirectory: 'Automarketbackend'
